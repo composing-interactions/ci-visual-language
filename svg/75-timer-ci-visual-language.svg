@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Visual Language for Composing Interactions, created by Marije Baalman and Superposition; https://composinginteractions.art-->
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 75.24 95.03" style="enable-background:new 0 0 75.24 95.03;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#8BFF8B;}
+	.st1{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:none;}
+	.st3{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:9.8884,9.8884;}
+	.st5{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;}
+	.st6{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.9921,8.929;}
+	.st7{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:10,10;}
+	.st8{fill:url(#SVGID_1_);}
+	.st9{fill:url(#SVGID_00000056408790961349582420000004569611685132912564_);}
+	.st10{font-family:'CMU Typewriter Text Variable Width';font-style:italic;}
+	.st11{font-size:7px;}
+	.st12{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0,0.9933;}
+	.st13{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0,1.0044;}
+	.st14{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.9083,1.8167;}
+	.st15{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0,0.9772;}
+	.st16{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0,1.0509;}
+</style>
+<g id="Diagrammen">
+	<rect x="11.78" y="76.98" class="st2" width="57.14" height="17.09"/>
+	<text transform="matrix(1 0 0 1 13.7842 91.0257)" class="st10 st11">timer</text>
+	<rect x="11.78" y="31.57" class="st3" width="63.21" height="63.21"/>
+	<g>
+		<g>
+			<line class="st3" x1="43.39" y1="17.96" x2="43.39" y2="39.95"/>
+			<g>
+				<path d="M40.99,36.53c0.12-0.07,0.27-0.04,0.35,0.08l2.05,3.23l2.05-3.23c0.07-0.12,0.23-0.15,0.35-0.08s0.15,0.23,0.08,0.35
+					l-2.27,3.56c-0.05,0.07-0.13,0.12-0.21,0.12s-0.17-0.04-0.21-0.12l-2.27-3.56c-0.03-0.04-0.04-0.09-0.04-0.13
+					C40.87,36.66,40.91,36.58,40.99,36.53z"/>
+			</g>
+		</g>
+	</g>
+	<rect x="11.78" class="st2" width="63.21" height="17.09"/>
+	<text transform="matrix(1 0 0 1 34.6351 14.0433)" class="st10 st11">reset</text>
+	<g>
+		<path class="st1" d="M17.62,66.41L17.62,66.41c-1.79,0-3.23-1.45-3.23-3.23v0c0-1.79,1.45-3.23,3.23-3.23h0
+			c1.79,0,3.23,1.45,3.23,3.23v0C20.85,64.96,19.41,66.41,17.62,66.41z"/>
+		<line class="st1" x1="17.62" y1="59.94" x2="17.62" y2="66.41"/>
+	</g>
+	<g>
+		<g>
+			<line class="st5" x1="0.25" y1="63.17" x2="0.75" y2="63.17"/>
+			<line class="st14" x1="2.57" y1="63.17" x2="9.83" y2="63.17"/>
+			<line class="st5" x1="10.74" y1="63.17" x2="11.24" y2="63.17"/>
+			<g>
+				<polygon points="9.59,65.22 9.24,64.85 11.05,63.17 9.24,61.5 9.59,61.13 11.78,63.17 				"/>
+			</g>
+		</g>
+	</g>
+	<circle class="st3" cx="43.21" cy="63.17" r="14.09"/>
+	<polyline class="st1" points="38.15,58.11 43.21,63.17 50.92,55.46 	"/>
+</g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Visual Language for Composing Interactions, created by Marije Baalman and Superposition; https://composinginteractions.art-->
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 62.72 62.72" style="enable-background:new 0 0 62.72 62.72;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#8BFF8B;}
+	.st1{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:none;}
+	.st3{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:9.8884,9.8884;}
+	.st5{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;}
+	.st6{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.9921,8.929;}
+	.st7{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:10,10;}
+	.st8{fill:url(#SVGID_1_);}
+	.st9{fill:url(#SVGID_00000169556561730468987540000004260870787433745087_);}
+	.st10{font-family:'CMU Typewriter Text Variable Width';font-style:italic;}
+	.st11{font-size:7px;}
+	.st12{font-size:18.2903px;}
+	.st13{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0,0.9933;}
+	.st14{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0,1.0044;}
+	.st15{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.9083,1.8167;}
+	.st16{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0,0.9772;}
+	.st17{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0,1.0509;}
+</style>
+<g id="Diagrammen">
+	<rect x="0.25" y="0.25" class="st3" width="62.22" height="62.22"/>
+	<rect x="0.25" y="45.38" class="st2" width="62.22" height="17.09"/>
+	<text transform="matrix(1 0 0 1 2.2498 59.4216)" class="st10 st11">less than</text>
+	<text transform="matrix(1 0 0 1 23.1302 36.7697)" class="st10 st12">&lt;</text>
+</g>
+</svg>

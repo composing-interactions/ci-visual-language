@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Visual Language for Composing Interactions, created by Marije Baalman and Superposition; https://composinginteractions.art-->
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 83.93 62.86" style="enable-background:new 0 0 83.93 62.86;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#8BFF8B;}
+	.st1{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:none;}
+	.st3{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:9.8884,9.8884;}
+	.st5{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;}
+	.st6{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.9921,8.929;}
+	.st7{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:10,10;}
+	.st8{fill:url(#SVGID_1_);}
+	.st9{fill:url(#SVGID_00000152958103097279895660000012522831285152303000_);}
+	.st10{font-family:'CMU Typewriter Text Variable Width';font-style:italic;}
+	.st11{font-size:6.9063px;}
+	.st12{font-size:18.0453px;}
+	.st13{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0,0.9933;}
+	.st14{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0,1.0044;}
+	.st15{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.9083,1.8167;}
+	.st16{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0,0.9772;}
+	.st17{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0,1.0509;}
+</style>
+<g id="Diagrammen">
+	<rect x="11.57" y="45.06" class="st2" width="50.99" height="16.86"/>
+	<text transform="matrix(1 0 0 1 13.542 58.9098)" class="st10 st11">min</text>
+	<rect x="11.57" y="0.25" class="st3" width="62.36" height="62.36"/>
+	<rect x="11.57" y="0.25" class="st2" width="62.36" height="62.36"/>
+	<text transform="matrix(1 0 0 1 23.7222 35.7389)" class="st10 st12">min</text>
+	<g>
+		<g>
+			<line class="st5" x1="11" y1="9.3" x2="11" y2="9.3"/>
+			<line class="st16" x1="10.02" y1="9.3" x2="0.74" y2="9.3"/>
+			<line class="st5" x1="0.25" y1="9.3" x2="0.25" y2="9.3"/>
+			<g>
+				<polygon points="9.34,7.26 9,7.62 10.81,9.3 9,10.98 9.34,11.34 11.54,9.3 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st5" x1="11" y1="24.05" x2="11" y2="24.05"/>
+			<line class="st16" x1="10.02" y1="24.05" x2="0.74" y2="24.05"/>
+			<line class="st5" x1="0.25" y1="24.05" x2="0.25" y2="24.05"/>
+			<g>
+				<polygon points="9.34,22.01 9,22.38 10.81,24.05 9,25.73 9.34,26.1 11.54,24.05 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st5" x1="83.39" y1="31.43" x2="83.39" y2="31.43"/>
+			<line class="st17" x1="82.34" y1="31.43" x2="74.46" y2="31.43"/>
+			<line class="st5" x1="73.93" y1="31.43" x2="73.93" y2="31.43"/>
+			<g>
+				<polygon points="81.73,29.39 81.39,29.75 83.2,31.43 81.39,33.11 81.73,33.48 83.93,31.43 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st5" x1="11" y1="38.81" x2="11" y2="38.81"/>
+			<line class="st16" x1="10.02" y1="38.81" x2="0.74" y2="38.81"/>
+			<line class="st5" x1="0.25" y1="38.81" x2="0.25" y2="38.81"/>
+			<g>
+				<polygon points="9.34,36.76 9,37.13 10.81,38.81 9,40.49 9.34,40.85 11.54,38.81 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st5" x1="11" y1="53.56" x2="11" y2="53.56"/>
+			<line class="st16" x1="10.02" y1="53.56" x2="0.74" y2="53.56"/>
+			<line class="st5" x1="0.25" y1="53.56" x2="0.25" y2="53.56"/>
+			<g>
+				<polygon points="9.34,51.52 9,51.88 10.81,53.56 9,55.24 9.34,55.61 11.54,53.56 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

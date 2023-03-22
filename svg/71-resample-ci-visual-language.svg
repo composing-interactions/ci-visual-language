@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Visual Language for Composing Interactions, created by Marije Baalman and Superposition; https://composinginteractions.art-->
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 62.86 62.86" style="enable-background:new 0 0 62.86 62.86;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#8BFF8B;}
+	.st1{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:none;}
+	.st3{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:9.8884,9.8884;}
+	.st5{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;}
+	.st6{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.9921,8.929;}
+	.st7{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:10,10;}
+	.st8{fill:url(#SVGID_1_);}
+	.st9{fill:url(#SVGID_00000128446460887320211680000003228759568125820562_);}
+	.st10{font-family:'CMU Typewriter Text Variable Width';font-style:italic;}
+	.st11{font-size:7px;}
+	.st12{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0,0.9933;}
+	.st13{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0,1.0044;}
+	.st14{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.9083,1.8167;}
+	.st15{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0,0.9772;}
+	.st16{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0,1.0509;}
+</style>
+<g id="Diagrammen">
+	<g>
+		<rect x="0.25" y="0.25" class="st3" width="62.36" height="62.36"/>
+	</g>
+	<rect x="0.25" y="45.52" class="st2" width="51.68" height="17.09"/>
+	<text transform="matrix(1 0 0 1 2.2502 59.5623)" class="st10 st11">resample</text>
+	<g>
+		<g>
+			<path class="st3" d="M34.22,17.62c6.44,1.29,11.3,6.99,11.3,13.81c0,7.78-6.31,14.09-14.09,14.09c-7.78,0-14.09-6.31-14.09-14.09
+				c0-7.6,6.02-13.79,13.55-14.08"/>
+			<g>
+				<polygon points="29.38,19.54 29.02,19.2 30.7,17.4 28.78,15.85 29.09,15.46 31.43,17.34 				"/>
+			</g>
+		</g>
+	</g>
+	<circle cx="31.43" cy="45.52" r="1.18"/>
+	<circle cx="17.34" cy="31.43" r="1.18"/>
+	<circle cx="45.52" cy="31.43" r="1.18"/>
+	<circle cx="21.47" cy="41.39" r="1.18"/>
+	<circle cx="41.39" cy="21.47" r="1.18"/>
+	<circle cx="41.39" cy="41.39" r="1.18"/>
+	<circle cx="21.47" cy="21.47" r="1.18"/>
+</g>
+</svg>

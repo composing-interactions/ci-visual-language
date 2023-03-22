@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Visual Language for Composing Interactions, created by Marije Baalman and Superposition; https://composinginteractions.art-->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 62.86 62.86" style="enable-background:new 0 0 62.86 62.86;" xml:space="preserve">
+<style type="text/css">
+	.st2{fill:none;}
+	.st3{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st7{font-family:'CMU Typewriter Text Variable Width';font-style:italic;}	
+	.st8{font-size:7px;}
+</style>
+<g id="Diagrammen">
+	<g>
+		<rect x="0.25" y="0.25" class="st2" width="62.36" height="62.36"/>
+		<text transform="matrix(1 0 0 1 16.2948 33.2502)" class="st7 st8">software</text>
+		<g>
+			<g>
+				<polyline class="st3" points="62.61,40.61 62.61,62.61 40.61,62.61 				"/>
+				<polyline class="st3" points="22.25,62.61 0.25,62.61 0.25,40.61 				"/>
+				<polyline class="st3" points="0.25,22.25 0.25,0.25 22.25,0.25 				"/>
+				<polyline class="st3" points="40.61,0.25 62.61,0.25 62.61,22.25 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
