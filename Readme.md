@@ -1,4 +1,4 @@
-# # Visual Language for Composing Interactions
+# Visual Language for Composing Interactions
 
 This repository contains all the SVG's of the *Visual Language for Composing Interactions*
 
